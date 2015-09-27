@@ -1,0 +1,10 @@
+diff a/Sample01/src/Sample01.java b/Sample01/src/Sample01.java	(rejected hunks)
+@@ -4,7 +4,7 @@
+ 	public static void main(String[] args) {
+ 		// TODO 自動生成されたメソッド・スタブ
+ 		//Git Test 2015/09/02 16:55
+-		//Add Test 2015/09/02 16:58
++
+ 		//Add Test 2015/09/02 18:45
+ 
+ 	}
